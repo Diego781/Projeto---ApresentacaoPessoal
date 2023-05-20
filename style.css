@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body {
+    background: linear-gradient(120deg, #0678AD, #FA9D2D);
+}
+
+main {
+    max-width: 750px;
+    min-width: 300px;
+    min-height: 700px;
+    box-shadow: 5px 5px 15px black;
+    margin: auto;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    padding: 25px;
+    margin-bottom: 75px;
+    margin-top: 30px;
+
+
+}
